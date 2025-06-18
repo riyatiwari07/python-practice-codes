@@ -48,3 +48,6 @@ while tocontinue == True:
         tocontinue = False
     else:
         print("Invalid Choice!")
+
+
+print("Thank you for using our banking system. Have a nice day!")
